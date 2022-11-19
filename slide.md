@@ -48,6 +48,7 @@ VFM v2では
   <h1 class="title" id="welcome">Welcome</h1>
 ```
 
+## Themes のスタイルシートの刷新
 
-
+- CSS変数を活用してよりカスタマイズがしやすいように
 
