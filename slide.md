@@ -25,7 +25,10 @@ Vivliostyle Foundation
 - Vivliostyle CLI コマンドラインツール
 - VFM (Vivliostyle Flavored Markdown)
 - Vivliostyle.js CSS組版エンジン(Core) 
-- Vivliostyle Viewer
+  - [Vivliostyle.jsにおけるWeb標準、CSSサポートの大改善](https://vivliostyle.org/viewer/#src=https://murakamishinyu.github.io/vivliostyle-dev2022autumn/slide.html&spread=false)
+- Vivliostyle Viewer—CSS組版プレビュー、電子出版ビューア
 
 # Vivliostyleプロジェクトのこれから
+
+## VFM v2—Markdown拡張仕様の改良
 
