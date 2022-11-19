@@ -4,7 +4,7 @@ title: Vivliostyleプロジェクトの今までとこれから
 author: Shinyu Murakami
 ---
 
-# Vivliostyleプロジェクトの今までとこれから {.cover}
+# Vivliostyleプロジェクトの<br>今までとこれから {.cover}
 
 2022-11-20 \
 Shinyu Murakami \
@@ -17,6 +17,15 @@ Vivliostyle Foundation
 
 # Vivliostyleプロジェクトの今まで
 
+## Vivliostyle各プロジェクトの充実
+
+- Vivliostyle Pub、アルファ版公開！
+  - https://vivliostyle-pub-develop.vercel.app/
+- Vivliostyle Themes スタイルテーマ
+- Vivliostyle CLI コマンドラインツール
+- VFM (Vivliostyle Flavored Markdown)
+- Vivliostyle.js CSS組版エンジン(Core) 
+- Vivliostyle Viewer
 
 # Vivliostyleプロジェクトのこれから
 
