@@ -32,3 +32,22 @@ Vivliostyle Foundation
 
 ## VFM v2—Markdown拡張仕様の改良
 
+VFM v1→v2で、[セクション分け](https://vivliostyle.github.io/vfm/#/ja/vfm#%E3%82%BB%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%88%86%E3%81%91-sectionization)での属性の扱いの仕様変更：
+
+```md
+# Welcome {.title}
+```
+というMarkdownに対して、VFM v1で生成されるHTMLは
+```html
+<section class="level1 title" id="welcome">
+  <h1 class="title">Welcome</h1>
+```
+VFM v2では
+```html
+<section class="level1" aria-labelledby="welcome">
+  <h1 class="title" id="welcome">Welcome</h1>
+```
+
+
+
+
