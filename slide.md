@@ -41,9 +41,6 @@ VFM v1の次の仕様が廃止：
 VFM v2の仕様では：
 > - 見出しの id 属性値をセクションの aria-labelledby 属性へ値をコピーします
 
-
-
-
 例：
 ```md
 # Welcome {.title}
@@ -83,6 +80,10 @@ section:has(> .title) {
 したがって、これまでの仕様の利点はなくなったので廃止。Markdownの見出しに指定した属性はHTMLの見出し要素にだけ出力という分かりやすい仕様に。詳しくは [VFM issue #151](https://github.com/vivliostyle/vfm/issues/151)。
 
 ほかにも仕様改良予定あり。[VFM issues](https://github.com/vivliostyle/vfm/issues) をご覧ください。 
+
+## Vivliostyle CLI v6
+
+VFMがv1からv2にメジャーバージョンアップ（非互換な仕様変更あり）となるので、それを使っているVivliostyle CLIも現在のv5からv6へとバージョンアップすることになります。
 
 ## Themes のスタイルシートの刷新
 
