@@ -82,7 +82,7 @@ section:has(> .title) {
 
 したがって、これまでの仕様の利点はなくなったので廃止。Markdownの見出しに指定した属性はHTMLの見出し要素にだけ出力という分かりやすい仕様に。詳しくは [VFM issue #151](https://github.com/vivliostyle/vfm/issues/151)。
 
-ほかにも仕様改良予定あり。[VFMのissues](https://github.com/vivliostyle/vfm/issues) をご覧ください。 
+ほかにも仕様改良予定あり。[VFM issues](https://github.com/vivliostyle/vfm/issues) をご覧ください。 
 
 ## Themes のスタイルシートの刷新
 
