@@ -85,15 +85,23 @@ section:has(> .title) {
 
 VFMがv1からv2にメジャーバージョンアップ（非互換な仕様変更あり）となるので、それを使っているVivliostyle CLIも現在のv5からv6へとバージョンアップすることになります。
 
-これからの課題: [Vivliostyle CLI issues](https://github.com/vivliostyle/vivliostyle-cli/issues)
+これからの課題: [Vivliostyle CLI issues](https://github.com/vivliostyle/vivliostyle-cli/issues)から
 
 - [EPUB生成をサポート](https://github.com/vivliostyle/vivliostyle-cli/issues/55)
 - [カバー画像のサポート](https://github.com/vivliostyle/vivliostyle-cli/issues/99)
 - [テーマをカスタマイズしやすくする](https://github.com/vivliostyle/vivliostyle-cli/issues/162)
 - など
 
-
 ## Themes のスタイルシートの刷新
 
-- CSS変数を活用してよりカスタマイズがしやすいように
+CSS変数を活用して、よりカスタマイズがしやすいように
 
+- [feat: Create base theme](https://github.com/vivliostyle/themes/pull/103) (Draft pull request) 
+
+## Vivliostyle Pub
+
+Vivliostyle.js組版エンジンと、VFM、CLI、Themesのアップデートは、もちろんVivliostyle Pubに反映されます！
+
+Vivliostyle Pubの課題：
+
+- [ベータ版公開までのTo Do（開発） ](https://github.com/vivliostyle/vivliostyle-pub/issues/218)
